@@ -47878,7 +47878,7 @@
                                                                                 opacity: "50%"
                                                                             },
                                                                             onClick: a,
-                                                                            children: "Let's Play"
+                                                                            children: "Anem a jugar"
                                                                         })
                                                                 })]
                                             })]
